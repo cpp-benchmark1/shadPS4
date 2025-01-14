@@ -110,3 +110,12 @@
 [submodule "externals/MoltenVK/MoltenVK"]
 	path = externals/MoltenVK/MoltenVK
 	url = git@github.com:KhronosGroup/MoltenVK.git
+[submodule "externals/externals/MoltenVK/SPIRV-Cross"]
+	path = externals/externals/MoltenVK/SPIRV-Cross
+	url = git@github.com:KhronosGroup/SPIRV-Cross.git
+[submodule "externals/MoltenVK/SPIRV-Cross"]
+	path = externals/MoltenVK/SPIRV-Cross
+	url = git@github.com:KhronosGroup/SPIRV-Cross.git
+[submodule "externals/MoltenVK/cereal"]
+	path = externals/MoltenVK/cereal
+	url = git@github.com:USCiLab/cereal.git

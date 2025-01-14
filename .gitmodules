@@ -107,3 +107,6 @@
 	path = externals/libpng
 	url = https://github.com/pnggroup/libpng
 	shallow = true
+[submodule "externals/MoltenVK/MoltenVK"]
+	path = externals/MoltenVK/MoltenVK
+	url = git@github.com:KhronosGroup/MoltenVK.git
